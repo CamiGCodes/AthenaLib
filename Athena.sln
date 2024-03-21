@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.API", "Athena.API\Athena.API.csproj", "{A2B70892-F6EE-4CBC-BFFD-46D82D9ED3BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Business", "Athena.Business\Athena.Business.csproj", "{4FDB7464-3277-4EB2-AA1A-1BC8B22E239B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Data", "Athena.Data\Athena.Data.csproj", "{883FAE26-9EF3-45ED-AD54-047E2B2B0580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Athena.Test", "Athena.Test\Athena.Test.csproj", "{7DB03663-2977-4BAB-9A40-CD30CFB9248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B70892-F6EE-4CBC-BFFD-46D82D9ED3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B70892-F6EE-4CBC-BFFD-46D82D9ED3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B70892-F6EE-4CBC-BFFD-46D82D9ED3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B70892-F6EE-4CBC-BFFD-46D82D9ED3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDB7464-3277-4EB2-AA1A-1BC8B22E239B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDB7464-3277-4EB2-AA1A-1BC8B22E239B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDB7464-3277-4EB2-AA1A-1BC8B22E239B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDB7464-3277-4EB2-AA1A-1BC8B22E239B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883FAE26-9EF3-45ED-AD54-047E2B2B0580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883FAE26-9EF3-45ED-AD54-047E2B2B0580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883FAE26-9EF3-45ED-AD54-047E2B2B0580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883FAE26-9EF3-45ED-AD54-047E2B2B0580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB03663-2977-4BAB-9A40-CD30CFB9248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB03663-2977-4BAB-9A40-CD30CFB9248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB03663-2977-4BAB-9A40-CD30CFB9248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB03663-2977-4BAB-9A40-CD30CFB9248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
